@@ -1,0 +1,21 @@
+{
+  "name": "ssess",
+  "description": "A very simple session middleware for connect",
+  "version": "0.4.0",
+  "author": "download <download333@gmail.com>",
+  "main": "ssess",
+  "scripts": {
+    "test": "moka"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/download13/ssess.git"
+  },
+  "dependencies": {
+    "cookie": "0.0.5",
+    "redis": "~0.8.3"
+  },
+  "devDependencies": {
+    "moka": "*"
+  }
+}
