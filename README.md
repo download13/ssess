@@ -1,3 +1,5 @@
+# Deprecated
+
 # ssess
 
 Simple session middleware
